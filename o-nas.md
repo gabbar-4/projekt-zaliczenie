@@ -1,1 +1,4 @@
-## Kilka słów o nas 😄
+ 
+##Kilka słów o nas 😄
+
+Stworzyłyśmy tę stronę w celu ułatwienia 
